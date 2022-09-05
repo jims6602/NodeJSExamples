@@ -1,0 +1,5 @@
+section1/node_modules/*
+section2/nodeapi/node_modules/*
+
+section2/nodeapi/.env
+
